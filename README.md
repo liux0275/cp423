@@ -1,4 +1,6 @@
 # cp423
+
+a simple App for text retrieval using the vector space retrieval model and the BM25 retrieval model.
 • text_retrieval.py: this is the python file to launch the App.
 • get_index.py: this is the python file to index the text documents and containing all utility functions
 • search.py: this is the python file to rank the text documents
